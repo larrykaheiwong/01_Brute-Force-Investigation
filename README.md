@@ -10,6 +10,7 @@ Investigate repeated failed RDP authentication followed by successful authentica
 - Controlled lab environment
 
 ## Scenario:
+
 Multiple failed RDP authentication attempts
               ↓
 Successful authentication
