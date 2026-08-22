@@ -12,11 +12,19 @@ Investigate repeated failed RDP authentication followed by successful authentica
 ## Scenario:
 
 Multiple failed RDP authentication attempts
-       ↓
+              
+↓
+
 Successful authentication
-      ↓
+
+↓
+
 L1 investigation
-      ↓
+
+↓
+
 Evidence correlation
-      ↓
+
+↓
+
 Escalation
