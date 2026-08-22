@@ -10,13 +10,8 @@ Investigate repeated failed RDP authentication followed by successful authentica
 - Controlled lab environment
 
 ## Scenario:
-
-- Multiple failed RDP authentication attempts
-              ↓
-- Successful authentication
-              ↓
-- L1 investigation
-              ↓
-- Evidence correlation
-              ↓
-- Escalation
+1, Multiple failed RDP authentication attempts
+2, Successful authentication
+3, L1 investigation
+4, Evidence correlation
+5, Escalation
