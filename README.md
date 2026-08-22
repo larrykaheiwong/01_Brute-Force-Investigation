@@ -28,3 +28,7 @@ Evidence correlation
 ↓
 
 Escalation
+
+## Report
+
+[View the investigation report](investigation-report.md)
