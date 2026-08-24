@@ -1,5 +1,6 @@
 # 01_Brute-Force-Investigation
-
+## MITRE ATT&CK
+- T1110 - Brute Force
 ## Objective
 
 Investigate repeated failed RDP authentication followed by successful authentication using Wazuh.
