@@ -39,7 +39,7 @@ The executable was intentionally created as part of the controlled lab scenario 
 
 The repeated authentication failures followed by successful access from the same source are suspicious.
 
-Based on the available evidence, I escalated the case to L2 for further investigation. I escalated the case to L2 for further investigation.
+Based on the available evidence, I escalated the case to L2 for further investigation.
 
 ## Disposition
 
